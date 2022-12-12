@@ -396,3 +396,13 @@ display:none;
   border-top-left-radius:0;
   border-top-right-radius:0;
 }
+
+/* bottom card */
+.bt-cd{
+  width: 230px;; height:300px;
+}
+@media (max-width:992px) {
+  .bt-cd{
+    width: 100%; height:300px;
+  } 
+}
