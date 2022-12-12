@@ -406,3 +406,94 @@ display:none;
     width: 100%; height:300px;
   } 
 }
+
+/* grrow */
+.grrow{
+flex-grow: 0.3;
+}
+/*  */
+.nav-bg{
+  background-color: rgb(232, 228, 228,0.7);
+}
+/*  */
+.md-bgs{
+  font-family: 'Poppins'; font-weight: 900;
+}
+/*  */
+.ul-collapse{
+  margin-right: 5%;
+}
+.weight-300{
+  font-weight: 300;
+}
+.button-circular{
+  border-radius: 50px
+}
+.button-circular-white{
+  color:white; ; border-radius: 50px
+}
+.mg-center{
+  margin:0 auto;
+}
+/*  */
+.dream-bg{
+  background-color: rgba(0, 0, 0, 0.6);
+}
+/*  */
+.qualified-center{
+  text-align: center; margin:5% auto; width: 50%;
+}
+/*  */
+.fun-bg-color{
+  background-color: rgba(18, 102, 241, 0.6)
+}
+/*  */
+.md-over{
+  height: 700px;
+}
+.update-center{
+  text-align: center; margin:5% auto; width: 50%;
+}
+/*  */
+.patient-says-bg
+{
+  background-color: rgba(18, 102, 241, 0.6);
+}
+.jeff-says
+{
+  position: relative; bottom:10%; left:15%;
+}
+.test-md{
+  height: 700px;
+}
+/*  */
+.quote{
+  position: relative; bottom:10%; left:7%;
+}
+.bt-cards{
+  text-align: center; margin:3% auto;
+}
+.contact-us-gap{
+  gap: 15px; flex-wrap: wrap;
+}
+.send-msg{
+  border-radius: 50px; background:#FF7000;
+}
+/* foot mask */
+.foot-mask{
+  background-color:rgba(202, 192, 192, 0.6); padding-top: 95px;
+}
+/* 5100-bg-appo */
+.bg-appo
+{justify-content: center;
+  background-color: rgba(18, 102, 241, 0.6)}
+
+  .foot-height{
+    height:90vh
+  }
+  /*  */
+  .phone-height{
+    height: 54px;
+  }
+  /* duden bg */
+ .duden-bg {background-color: rgba(0, 0, 0, 0.6);}
