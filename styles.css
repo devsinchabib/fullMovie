@@ -19,6 +19,7 @@
   html, body {
     max-width: 100%;
     overflow-x: hidden;
+
 }
   body {
     font-family: 'Poppins', sans-serif;
@@ -193,7 +194,7 @@
 }
 /* primary navbar */
 .primary-navbar{
-    height:70px; width:100%;  position: absolute;
+    height:70px; width:100%;  
     z-index: 1;
 }
 @media (max-width:991px) {
@@ -302,9 +303,7 @@ display:none;
 
 display:none;
   }
-  .about-img{
-  width:80%; height:90vh;    
-   }
+
    .about{
 
    }
@@ -524,6 +523,10 @@ flex-grow: 0.3;
  .on-half-vw{
   font-size: 2vw !important;
  }
+ .one-75{
+  font-size: 1.75vw !important;
+
+ }
  .one-vw{
   font-size: 1vw !important;
  }
@@ -541,3 +544,13 @@ flex-grow: 0.3;
   font-size: 1.5vw !important;
 
  }
+
+ 
+ .custom-toggler.navbar-toggler {
+    /* background-image: url(https://img.icons8.com/external-creatype-glyph-colourcreatype/64/FFFFFF/external-hamburger-basic-creatype-glyph-colourcreatype.png); */
+}
+
+.heig-50{
+  height: 4rem;
+
+}
